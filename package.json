@@ -10,7 +10,7 @@
     "babel",
     "es6"
   ],
-  "author": "hitesh choudhary",
+  "author": "muthaiyan mani",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
